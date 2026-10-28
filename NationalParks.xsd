@@ -30,7 +30,7 @@
               </xs:element>
             </xs:sequence>
             <xs:attribute name="Rating"
-                          type="xs:decimal"
+                          type="xs:string"
                           use="optional"/>
           </xs:complexType>
         </xs:element>
